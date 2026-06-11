@@ -2,7 +2,7 @@
 
 **Business brain. Developer hands.**
 
-Final-year Business Administration student at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana. Self-taught developer. I didn't study computer science — I saw people close to me build things from scratch and decided I could too. No science track in high school. No CS degree. Just the conviction that this skill matters, and the discipline to earn it.
+Final-year Business Administration student at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana. Self-taught developer. I didn't study computer science — I saw people close to me build things from scratch and decided I could too. No general science in high school. No CS degree. Just the conviction that this skill matters, and the discipline to earn it.
 
 My background is in management and finance, which means I don't just write code — I think about *why* the product exists and who it's for. I've worked across the full stack and can handle the backend when a project calls for it — but my sharpest work is on the frontend, with React, Next.js, TypeScript, and Tailwind CSS. I gravitate toward tools that deal in numbers, decisions, and real-world utility.
 
@@ -30,7 +30,7 @@ My background is in management and finance, which means I don't just write code 
 
 ### On AI
 
-I use AI in my workflow — I'll say that plainly. What I don't do is copy-paste logic I don't understand. Every new concept it introduces, I make it explain until I own it. Every output I ship, I've reviewed and refined to match my own standard. I think that's the honest way to grow.
+I use AI in my workflow — I'll say that plainly. What I don't do is copy-paste logic I don't understand. Every new concept it introduces, I make it explain until I own it. Every output I ship, I review and refine to match my own standard. I think that's the honest way to grow.
 
 ##
 

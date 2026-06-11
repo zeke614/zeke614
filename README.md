@@ -10,11 +10,11 @@ My background is in management and finance, which means I don't just write code 
 
 ### What I've Built
 
-**[Exchango](#)** &nbsp;·&nbsp; Real-time currency converter. 150+ currencies with live exchange rates, built with React, TypeScript, and Tailwind CSS.
+**[Exchango](https://exchangoio.vercel.app/)** &nbsp;·&nbsp; Real-time currency converter. 150+ currencies with live exchange rates, built with React, TypeScript, and Tailwind CSS.
 
-**[Assay](#)** &nbsp;·&nbsp; Investment appraisal tool built the way finance people actually think about evaluating a project — not just the math, but the decision behind it.
+**[Assay](https://assayit.vercel.app/)** &nbsp;·&nbsp; Investment appraisal tool built the way finance people actually think about evaluating a project — not just the math, but the decision behind it.
 
-**[Loop](#)** &nbsp;·&nbsp; Long-form articles on science, finance, sports, entertainment, and the things genuinely worth knowing about. Researched. Well-written. No filler.
+**[Loop](https://loopgh.vercel.app/)** &nbsp;·&nbsp; Long-form articles on science, finance, sports, entertainment, and the things genuinely worth knowing about. Researched. Well-written. No filler.
 
 *More in the works.*
 

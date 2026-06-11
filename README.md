@@ -1,14 +1,45 @@
-  **👋🏾 Hello,**
-## **I am Ezekiel Arkoh Amissah**
-**a web 🕸 developer.** 
-- 🌱 I’m currently learning **React, React Native and TypeScript**.
-- 👨🏾‍💻 I’m interested in creating solutions to problems and addressing societal needs with regards to tech.
-- 👀 I look forward to working with and learning from developers and contributing to open-source projects.
-- 📫 Reach me via email: **ezekielarkohamissah@gmail.com** 
-- 👨🏾 Pronouns: He/Him
-- 🌎 I live in Ghana.
+## Ezekiel Arkoh Amissah
 
-<!---
-Zeke-Codes/Zeke-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Business brain. Developer hands.**
+
+Final-year Business Administration student at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana. Self-taught developer. I didn't study computer science — I saw people close to me build things from scratch and decided I could too. No science track in high school. No CS degree. Just the conviction that this skill matters, and the discipline to earn it.
+
+My background is in management and finance, which means I don't just write code — I think about *why* the product exists and who it's for. I've worked across the full stack and can handle the backend when a project calls for it — but my sharpest work is on the frontend, with React, Next.js, TypeScript, and Tailwind CSS. I gravitate toward tools that deal in numbers, decisions, and real-world utility.
+
+##
+
+### What I've Built
+
+**[Exchango](#)** &nbsp;·&nbsp; Real-time currency converter. 150+ currencies with live exchange rates, built with React, TypeScript, and Tailwind CSS.
+
+**[Assay](#)** &nbsp;·&nbsp; Investment appraisal tool built the way finance people actually think about evaluating a project — not just the math, but the decision behind it.
+
+**[Loop](#)** &nbsp;·&nbsp; Long-form articles on science, finance, sports, entertainment, and the things genuinely worth knowing about. Researched. Well-written. No filler.
+
+*More in the works.*
+
+##
+
+### Stack
+
+**Primarily** &nbsp;&nbsp;`React` &nbsp;`Next.js` &nbsp;`TypeScript` &nbsp;`Tailwind CSS` &nbsp;`Vercel`
+
+**Also** &nbsp;&nbsp;`Supabase` &nbsp;`MongoDB` &nbsp;`Express.js` &nbsp;`Render`
+
+##
+
+### On AI
+
+I use AI in my workflow — I'll say that plainly. What I don't do is copy-paste logic I don't understand. Every new concept it introduces, I make it explain until I own it. Every output I ship, I've reviewed and refined to match my own standard. I think that's the honest way to grow.
+
+##
+
+### The Goal
+
+To build products people rely on. To work with world-class teams — in San Francisco, and wherever great work gets done. To prove, as a boy from Ghana, that where you start doesn't decide where you end up.
+
+I'm just getting started.
+
+&nbsp;
+
+📬 &nbsp;ezekielarkohamissah@gmail.com

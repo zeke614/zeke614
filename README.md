@@ -10,7 +10,7 @@ My background is in business management and finance, which means I don't just wr
 
 ### What I've Built
 
-**[Exchango](https://exchangoio.vercel.app/)** &nbsp;·&nbsp; Real-time currency converter. 150+ currencies with live exchange rates, built with React, TypeScript, and Tailwind CSS.
+**[Sedie](https://sedie.vercel.app/)** &nbsp;·&nbsp; Real-time currency converter. 150+ currencies with live exchange rates, built with React, TypeScript, and Tailwind CSS.
 
 **[Assay](https://assayit.vercel.app/)** &nbsp;·&nbsp; Investment appraisal tool built the way finance people actually think about evaluating a project — not just the math, but the decision behind it.
 
